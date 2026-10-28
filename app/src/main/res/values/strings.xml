@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScanStock</string>
+    <string name="scan_barcode">Escanear código de barras</string>
+    <string name="load_images">Cargar imágenes en lote</string>
+    <string name="location_label">Ubicación</string>
+    <string name="units_label">Unidades por bulto</string>
+    <string name="generate_json">GENERAR Y DESCARGAR ARCHIVO .JSON</string>
+    <string name="empty_inventory_title">Inventario en blanco</string>
+    <string name="empty_inventory_desc">Escanea un código de barras con la cámara o carga imágenes desde la galería para comenzar.</string>
+</resources>

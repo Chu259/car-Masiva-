@@ -1,0 +1,6 @@
+{
+  "name": "ScanStock",
+  "description": "Lector y gestor de inventario por código de barras para supermercados con IA de Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
